@@ -38,4 +38,5 @@
 ![2](https://github.com/YehiaSharawy/MIPS-Architecture/assets/65984199/57ed4b1f-d5b3-435f-a53e-369ba3051946)
 
 ## Report
-[MIPS Project Report - Yehia Sharawy 20100519 .pdf](https://github.com/YehiaSharawy/MIPS-Architecture/files/11659017/MIPS.Project.Report.-.Yehia.Sharawy.20100519.pdf)
+[MIPS Project Report - Omar Nabil 20101180.pdf](https://github.com/OmarMoNabil/MIPS-Architecture/files/15131913/MIPS.Project.Report.-.Omar.Nabil.20101180.pdf)
+
